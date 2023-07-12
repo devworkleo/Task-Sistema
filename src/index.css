@@ -1,0 +1,53 @@
+/* Importando fonte de texto */
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@400;500;600;700&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&display=swap');
+
+:root {
+
+}
+* {
+  margin: 0px;
+  padding: 0px;
+  outline: none;
+  box-sizing: border-box;
+  font-family: 'Rajdhani', sans-serif;
+  /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
+}
+
+.search_task {
+  gap: 10px;
+  height: 50px;
+}
+.search_task button {
+  margin-right: 10px;
+}
+.form {
+  gap: 10px;
+  width: 100%;
+  display: flex;
+  margin-bottom: 10px;
+  flex-direction: column;
+}
+.form .ant-form-item {
+  margin: 0px;
+}
+.create_task_button {
+  gap: 10px;
+  width: 85%;
+  height: auto;
+  display: flex;
+  color: white;
+  cursor: pointer;
+  padding: 7px 0px;
+  border-radius: 5px;
+  align-items: center;
+  transition: .3s linear;
+  justify-content: center;
+  background-color: #24a0ed;
+  border: 1px solid #24a0ed;
+}
+.create_task_button:hover {
+  color: #24a0ed;
+  background-color: transparent;
+}
