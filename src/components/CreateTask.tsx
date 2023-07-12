@@ -24,7 +24,7 @@ export const CreateTask = () => {
   const onDisabledDate = (current: any) => {
     return current && current < moment().endOf('day')
   }
-  const handleDatePickerChange = (date: any, dateString: string) => {
+  const handleDatePickerChange = (dateString: string) => {
     form.setFieldsValue({ final: dateString });
   }
   const handleSubmit = (data: { task: string, final: string, category: string }) => {
