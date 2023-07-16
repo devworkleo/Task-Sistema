@@ -2,7 +2,7 @@
 
 ## 💬 Sobre
 
-Esse é um projeto de minha autoria onde é possível cadastrar tarefas diárias para gerencimento de atividades no cotidiano. Decidi criar essa simples ferramenta pois percebi que no meu dia a dia eu não tinha o costume de gerenciar meus deveres e minhas metas o que me prejudicava muito. Com isso, pensei em desenvolver essa ferramenta como solução. Como é uma ferramenta de simples uso e desenvolvimento optei por não utilizar uma aplicação backend (banco de dados), sendo assim utilizando cookies como meio de armazenamento das tarefas. No momento estou em busca de referências para melhorar essa aplicação e tornar ela um sistema de gerenciamento de tarefas com login e cadastro de tarefas pessoais.
+Esse é um projeto de minha autoria onde é possível cadastrar tarefas diárias para gerenciamento  de atividades no cotidiano. Decidi criar essa simples ferramenta pois percebi que no meu dia a dia eu não tinha o costume de gerenciar meus deveres e minhas metas o que me prejudicava muito. Com isso, pensei em desenvolver essa ferramenta como solução. Como é uma ferramenta de simples uso e desenvolvimento optei por não utilizar uma aplicação backend (banco de dados), sendo assim utilizando cookies como meio de armazenamento das tarefas. No momento estou em busca de referências para melhorar essa aplicação e tornar ela um sistema de gerenciamento de tarefas com login e cadastro de tarefas pessoais.
 
 ## ☁ Demonstração
 
